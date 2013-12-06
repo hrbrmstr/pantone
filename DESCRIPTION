@@ -1,0 +1,9 @@
+Package: pantone
+Type: Package
+Title: Pantone colors of the year (individual and palette)
+Version: 1.0
+Date: 2013-12-05
+Author: Bob Rudis (@hrbrmstr)
+Maintainer: Bob Rudis <bob@rudis.net>
+Description: Pantone colors of the year (individual and palette)
+License: MIT License
