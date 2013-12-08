@@ -7,3 +7,5 @@ Author: Bob Rudis (@hrbrmstr)
 Maintainer: Bob Rudis <bob@rudis.net>
 Description: Pantone colors of the year (individual and palette)
 License: MIT License
+Collate:
+    'pantone.R'
